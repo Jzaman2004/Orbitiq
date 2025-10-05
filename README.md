@@ -1,4 +1,4 @@
-# Orbitiq
+# Orbitiqz
 
 # 🛰️ LEO-Commons — NASA Hackathon Entry
 
