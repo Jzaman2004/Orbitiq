@@ -16,7 +16,7 @@ LEO-Commons is an open, sustainable satellite intelligence platform that makes E
 
 ## 🔗 Live Demo
 
-👉 **[View the LEO-Commons Demo](https://jzaman2004.github.io/Orbitiq/)**
+👉 **[View the LEO-Commons Demo](https://jzaman2004.github.io/Orbitiqz/)**
 
 ## 🏆 Competition Ready
 
